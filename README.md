@@ -1,4 +1,4 @@
-# Привет, я Екатерина 👋
+# Привет, я Екатерина 👋🏼
 
 Я аналитик с маркетинговым бэкграундом. 
 
@@ -6,4 +6,9 @@
 
 **Стек**: SQL, Python (pandas, SciPy, NumPy, matplotlib, seaborn, statsmodels, scipy.stats, pingouin)
 
-## Мои проекты 👇
+## Контакты
+
+💬 [Написать в Telegram](https://t.me/dkatyaa)
+📧 [Написать email](mailto:ekaterina.dav58@mail.ru)
+
+## Мои проекты ⤵
