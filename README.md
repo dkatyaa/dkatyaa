@@ -8,7 +8,7 @@
 
 ## Контакты
 
-💬 [Написать в Telegram](https://t.me/dkatyaa)
-📧 [Написать email](mailto:ekaterina.dav58@mail.ru)
+💬 Telegram: [@dkatyaa](https://t.me/dkatyaa)
+📧 Email: [ekaterina.dav58@mail.com](mailto:ekaterina.dav58@mail.com)
 
 ## Мои проекты ⤵
